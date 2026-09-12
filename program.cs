@@ -21,8 +21,7 @@ internal class Program
 
             Console.WriteLine($"You entered: {op}");
 
-
-            
+ 
         }
     }
 }
